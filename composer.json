@@ -1,5 +1,5 @@
 {
-    "name": "moura137/laravel-elephantio",
+    "name": "nvmanh/laravel-elephantio",
     "description": "ElephantIO Service Provider for the Laravel PHP Framework",
     "keywords": ["socket.io","laravel", "php","elephant.io"],
     "type": "library",
